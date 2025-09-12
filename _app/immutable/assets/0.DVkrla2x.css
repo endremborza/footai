@@ -1,1 +1,0 @@
-:root{--color-text: black;--color-bg: white}@media (prefers-color-scheme: dark){:root{--color-text: white;--color-bg: black}}  html,body{height:100%;margin:0;color:var(--color-text);background-color:var(--color-bg)}
